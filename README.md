@@ -1,5 +1,6 @@
-# Fire Detection Dataset - 85 videos
-The dataset comprises **85** videos containing fire and smoke scenes, varying in length and content. Each video frame is annotated with **bounding boxes** that localize instances of fire and smoke, making it a comprehensive resource for **fire monitoring**, **wildfire detection**, and **real-time monitoring systems**. Designed to support **detection systems**, **deep learning**, and **model training**, this dataset is essential for improving **fire management**, **early detection**, and **fire safety** applications.
+# Fire Detection Dataset - 292 videos
+The dataset comprises **292** videos containing fire and smoke scenes, varying in length and content. Every video is annotated with condition (fire or smoke), camera distance, time of day, location.. Designed to support **detection systems**, **deep learning**, and **model training**, this dataset is essential for improving **fire management**, **early detection**, and **fire safety** applications.
+
 
 By leveraging this dataset, researchers and developers can enhance **detection algorithms**, train **machine learning models**, and improve **accuracy in identifying fire events**, **smoke detection**, and burnt areas under diverse environmental conditions.- **[Get the data](https://unidata.pro/datasets/smoke-and-fire-detection-videos-dataset/?utm_source=github&utm_medium=referral&utm_campaign=fire-and-smoke-dataset)**
 
